@@ -1,0 +1,2 @@
+1. open terminal at autoSeed directory
+2. use command pip(3) install -r requirements.txt
